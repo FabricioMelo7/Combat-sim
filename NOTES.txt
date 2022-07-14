@@ -1,0 +1,20 @@
+combat sim.
+
+VARIABLES:
+Player:
+-Char
+-Char health
+-Char attack
+	-type
+	-dmg
+-Char Mana
+
+Enemy:
+-Enemy
+-Enemy health
+-Enemy attack
+	-Attack type
+	-Attack dmg
+-Enemy Mana
+
+*Combat similat to pokemon's
